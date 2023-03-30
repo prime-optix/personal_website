@@ -9,10 +9,10 @@
 }
 
 p {
+  margin-top: 200px;
   text-align: center;
-  margin-left: auto;
- padding: 50px;
-    position: relative;
+   padding: 4px;
+  
     font-family:'Courier New' ;
     text-transform: uppercase;
     font-size: 2vw;
